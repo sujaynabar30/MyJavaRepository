@@ -1,8 +1,9 @@
 class HelloWorld{
 
-void displayDate(){
-sysout("display today's date:-");
-}
+	void displayDate(){
+
+		System.out.println("display today's date:-");
+	}
 
 	public static void main(String[] args){
 
