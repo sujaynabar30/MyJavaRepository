@@ -2,12 +2,12 @@ class HelloWorld{
 
 	static void displayDate(){
 
-		System.out.println("display today's date:-");
+		System.out.println("display today's date:-"+new Date());
 	}
 	
 	public static void main(String[] args){
 
-		System.out.println("Hello World...Welcome to Git");
+		System.out.println("Hello World...!!!Welcome to Git...!!!");
 		displayDate();
 
 	}
